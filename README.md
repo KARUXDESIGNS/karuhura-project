@@ -18,7 +18,3 @@ Before running the project, you need to have the following installed on your loc
 - **MySQL**: Database server to manage the database (again, XAMPP or WAMP will include MySQL).
 - **A web browser**: To access the application.
 
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/smart-packing-system.git
